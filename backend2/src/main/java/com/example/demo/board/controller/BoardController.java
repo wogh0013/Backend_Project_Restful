@@ -28,6 +28,7 @@ import com.example.demo.common.FileUploadUtil;
 @RestController
 public class BoardController {
 
+
 	@Value("${fileUploadPath}")
 	String fileUploadPath;
 
